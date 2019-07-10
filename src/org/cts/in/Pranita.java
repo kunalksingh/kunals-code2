@@ -1,9 +1,9 @@
 package org.cts.in;
 
-public class Abstract {
+public class Pranita {
 
 	public static void main(String[] args) {
-		System.out.println("Smoke testing ");
+		System.out.println("manual testing");
 
 	}
 
