@@ -1,9 +1,9 @@
 package org.cts.in;
 
-public class Abstract {
+public class Pranita {
 
 	public static void main(String[] args) {
-		System.out.println("Smoke testing ");
+		// TODO Auto-generated method stub
 
 	}
 
